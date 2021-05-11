@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![PP_logo](https://tatianapp.github.io/whatisthat/images/PP_vector_color.png)
+![PP_logo](https://playpack.games/images/PP_vector_color.png)
 
 
 [Contacts](./contacts.md)
